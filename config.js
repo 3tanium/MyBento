@@ -82,7 +82,7 @@ const CONFIG = {
 		// 	link: 'https://reddit.com',
 		// },
 		{
-			id: '6',
+			id: '3',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
