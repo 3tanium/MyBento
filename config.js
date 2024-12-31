@@ -63,6 +63,12 @@ const CONFIG = {
 			icon: 'mail',
 			link: 'https://mail.google.com/',
 		},
+		{
+			id: '3',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
+		},
 		// {
 		// 	id: '3',
 		// 	name: 'Todoist',
@@ -81,12 +87,6 @@ const CONFIG = {
 		// 	icon: 'glasses',
 		// 	link: 'https://reddit.com',
 		// },
-		{
-			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
-		},
 	],
 
 	secondButtonsContainer: [
