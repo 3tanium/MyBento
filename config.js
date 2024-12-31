@@ -70,19 +70,19 @@ const CONFIG = {
 			link: 'https://youtube.com/',
 		},
 		// {
-		// 	id: '3',
+		// 	id: '4',
 		// 	name: 'Todoist',
 		// 	icon: 'trello',
 		// 	link: 'https://todoist.com',
 		// },
 		// {
-		// 	id: '4',
+		// 	id: '5',
 		// 	name: 'Calendar',
 		// 	icon: 'calendar',
 		// 	link: 'https://calendar.google.com/calendar/r',
 		// },
 		// {
-		// 	id: '5',
+		// 	id: '6',
 		// 	name: 'Reddit',
 		// 	icon: 'glasses',
 		// 	link: 'https://reddit.com',
