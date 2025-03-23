@@ -11,19 +11,19 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Bee',
+	name: 'bee',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'awawaawawawawa',
+	greetingAfternoon: 'awa',
+	greetingEvening: 'awawawa,',
+	greetingNight: "it's so fucking late go to bed you dyke",
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -69,24 +69,24 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
-		// {
-		// 	id: '4',
-		// 	name: 'Todoist',
-		// 	icon: 'trello',
-		// 	link: 'https://todoist.com',
-		// },
-		// {
-		// 	id: '5',
-		// 	name: 'Calendar',
-		// 	icon: 'calendar',
-		// 	link: 'https://calendar.google.com/calendar/r',
-		// },
-		// {
-		// 	id: '6',
-		// 	name: 'Reddit',
-		// 	icon: 'glasses',
-		// 	link: 'https://reddit.com',
-		// },
+		{
+			id: '4',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
+		},
+		{
+			id: '5',
+			name: 'Cobalt',
+			icon: 'calendar',
+			link: 'https://cobalt.tools/',
+		},
+		{
+			id: '6',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: '',
+		},
 	],
 
 	secondButtonsContainer: [
